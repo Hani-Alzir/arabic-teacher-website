@@ -1,0 +1,49 @@
+{
+  "nav": {
+    "logo": "Arabisch Leraar",
+    "home": "Home",
+    "about": "Over Mij",
+    "services": "Diensten",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Welkom bij Arabisch Leren",
+    "subtitle": "Beheers de Arabische taal en verbind met een rijke culturele erfenis",
+    "cta": "Begin met Leren"
+  },
+  "about": {
+    "title": "Over Mij",
+    "paragraph1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "paragraph2": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "philosophyTitle": "Onderwijsfilosofie",
+    "philosophyText": "Mijn aanpak combineert traditionele methoden met moderne technieken om effectief leren te garanderen. Ik geloof in het creëren van een ondersteunende omgeving waar studenten kunnen gedijen en een diepe waardering voor de Arabische taal kunnen ontwikkelen."
+  },
+  "services": {
+    "title": "Onze Diensten",
+    "classical": {
+      "title": "Klassiek Arabisch",
+      "description": "Verken klassieke Arabische literatuur en teksten, en ontwikkel een diep begrip van de traditionele Arabische taal en haar rijke literaire erfgoed."
+    },
+    "conversational": {
+      "title": "Conversationeel Arabisch",
+      "description": "Beheers alledaagse Arabische gesprekken en verbeter je spreekvaardigheid door interactieve sessies."
+    },
+    "grammar": {
+      "title": "Arabische Grammatica",
+      "description": "Bouw een sterke basis in Arabische grammatica, syntaxis en zinsstructuur voor geavanceerde vaardigheid."
+    },
+    "business": {
+      "title": "Zakelijk Arabisch",
+      "description": "Leer professioneel Arabisch voor zakelijke communicatie, presentaties en bedrijfsomgevingen."
+    }
+  },
+  "contact": {
+    "title": "Neem Contact Op",
+    "description": "Ik ben hier om je te helpen op je Arabisch leerreis. Of je nu een beginner bent of je vaardigheden wilt verbeteren, neem gerust contact op. Ik bied zowel individuele als groepslessen aan, en ik bespreek graag je leerdoelen en maak een gepersonaliseerd plan voor je.",
+    "name": "Naam",
+    "email": "E-mail",
+    "phone": "Telefoon",
+    "teacherName": "Marwa Alzir"
+  }
+}
+

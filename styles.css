@@ -112,21 +112,39 @@ body.rtl .nav-menu a::after {
     width: 100%;
 }
 
-.lang-toggle {
+.lang-select {
     background-color: var(--color-gold);
     color: var(--color-deep-green);
     border: none;
     padding: 0.5rem 1rem;
+    padding-right: 2.5rem;
     border-radius: 5px;
     cursor: pointer;
     font-weight: 600;
     transition: var(--transition);
     font-size: 0.9rem;
+    appearance: none;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 12 12'%3E%3Cpath fill='%232d5016' d='M6 9L1 4h10z'/%3E%3C/svg%3E");
+    background-repeat: no-repeat;
+    background-position: right 0.75rem center;
+    background-size: 0.75rem;
+    min-width: 120px;
 }
 
-.lang-toggle:hover {
+body.rtl .lang-select {
+    padding-left: 2.5rem;
+    padding-right: 1rem;
+    background-position: left 0.75rem center;
+}
+
+.lang-select:hover {
     background-color: var(--color-dark-gold);
     transform: translateY(-2px);
+}
+
+.lang-select:focus {
+    outline: 2px solid var(--color-dark-gold);
+    outline-offset: 2px;
 }
 
 .mobile-menu-toggle {
@@ -413,6 +431,18 @@ body.rtl .section-title::after {
 
     .mobile-menu-toggle {
         display: flex;
+    }
+
+    .lang-select {
+        min-width: 100px;
+        font-size: 0.85rem;
+        padding: 0.4rem 0.8rem;
+        padding-right: 2rem;
+    }
+
+    body.rtl .lang-select {
+        padding-left: 2rem;
+        padding-right: 0.8rem;
     }
 
     .mobile-menu-toggle.active span:nth-child(1) {

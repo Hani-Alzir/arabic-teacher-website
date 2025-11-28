@@ -1,0 +1,49 @@
+{
+  "nav": {
+    "logo": "Arabic Teacher",
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Welcome to Arabic Learning",
+    "subtitle": "Master the Arabic language and connect with a rich cultural heritage",
+    "cta": "Start Learning"
+  },
+  "about": {
+    "title": "About Me",
+    "paragraph1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "paragraph2": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "philosophyTitle": "Teaching Philosophy",
+    "philosophyText": "My approach combines traditional methods with modern techniques to ensure effective learning. I believe in creating a supportive environment where students can thrive and develop a deep appreciation for the Arabic language."
+  },
+  "services": {
+    "title": "Our Services",
+    "classical": {
+      "title": "Classical Arabic",
+      "description": "Explore classical Arabic literature and texts, developing a deep understanding of traditional Arabic language and its rich literary heritage."
+    },
+    "conversational": {
+      "title": "Conversational Arabic",
+      "description": "Master everyday Arabic conversations and improve your speaking skills through interactive sessions."
+    },
+    "grammar": {
+      "title": "Arabic Grammar",
+      "description": "Build a strong foundation in Arabic grammar, syntax, and sentence structure for advanced proficiency."
+    },
+    "business": {
+      "title": "Business Arabic",
+      "description": "Learn professional Arabic for business communication, presentations, and corporate environments."
+    }
+  },
+  "contact": {
+    "title": "Contact Me",
+    "description": "I'm here to help you on your Arabic learning journey. Whether you're a beginner or looking to advance your skills, feel free to reach out. I offer both individual and group lessons, and I'm happy to discuss your learning goals and create a personalized plan for you.",
+    "name": "Name",
+    "email": "Email",
+    "phone": "Phone",
+    "teacherName": "Marwa Alzir"
+  }
+}
+
